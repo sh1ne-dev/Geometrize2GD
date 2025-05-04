@@ -1,3 +1,7 @@
+# v1.2.5
+
+- Updated the description.
+
 # v1.2.4
 
 - Added iOS support
