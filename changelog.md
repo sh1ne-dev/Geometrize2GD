@@ -1,3 +1,7 @@
+# v1.2.4
+
+- Added iOS support
+
 # v1.2.3
 
 - Ported to v2.207
