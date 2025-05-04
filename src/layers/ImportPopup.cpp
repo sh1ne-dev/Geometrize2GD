@@ -272,7 +272,7 @@ void ImportPopup::parseAndPlace() {
             objId, posX, posY, scaleX, scaleY, rotation,
             h,s,v, h,s,v, this->m_zOrder
         );
-        this->m_zOrder;
+        this->m_zOrder++;
     }
 
     // Checking if there are no parsed objects
