@@ -38,15 +38,15 @@
 
 ![](https://github.com/ShineUA/geometrize2gd-mod-geode/blob/main/screenshots/13.png)
 
-6. Click the **Start** button.
+5. Click the **Start** button.
 
 ![](https://github.com/ShineUA/geometrize2gd-mod-geode/blob/main/screenshots/17.png)
 
-7. Now if the result presented on screen is good for you can stop **.json** generation by clicking the "Stop" button.
+6. Now if the result presented on screen is good for you can stop **.json** generation by clicking the "Stop" button.
 
 ![](https://github.com/ShineUA/geometrize2gd-mod-geode/blob/main/screenshots/15.png)
 
-8. Go to the **Exporters** tab and click the **Save Geometry Data** button. This will save the **.json** file that you'll need
+7. Go to the **Exporters** tab and click the **Save Geometry Data** button. This will save the **.json** file that you'll need
 
 ![](https://github.com/ShineUA/geometrize2gd-mod-geode/blob/main/screenshots/16.png)
 
