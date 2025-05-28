@@ -19,7 +19,7 @@
 
 ![](https://github.com/ShineUA/geometrize2gd-mod-geode/blob/main/screenshots/3.png)
 
-5. Then click **Save JSON** button. This will download the **.json** file that you'll need.
+5. Then click the **Save JSON** button. This will download the **.json** file that you'll need.
 
 ![](https://github.com/ShineUA/geometrize2gd-mod-geode/blob/main/screenshots/4.png)
 
@@ -46,7 +46,7 @@
 
 ![](https://github.com/ShineUA/geometrize2gd-mod-geode/blob/main/screenshots/15.png)
 
-8. Go to **Exporters** tab and click **Save Geometry Data** button. This will save the **.json** file that you'll need
+8. Go to the **Exporters** tab and click the **Save Geometry Data** button. This will save the **.json** file that you'll need
 
 ![](https://github.com/ShineUA/geometrize2gd-mod-geode/blob/main/screenshots/16.png)
 
