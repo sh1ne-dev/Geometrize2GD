@@ -68,6 +68,6 @@
 
 ![](https://github.com/ShineUA/geometrize2gd-mod-geode/blob/main/screenshots/8.png)
 
-6. And now it's done. Enjoy your result!
+5. And now it's done. Enjoy your result!
 
 ![](https://github.com/ShineUA/geometrize2gd-mod-geode/blob/main/screenshots/9.png)
