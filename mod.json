@@ -1,23 +1,29 @@
 {
-	"geode": "4.4.0",
+	"geode": "4.5.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"version": "v1.2.5",
-	"id": "shineua.geometrize2gd",
+	"version": "v1.2.6",
+	"id": "sh1ne_dev.geometrize2gd",
 	"name": "Geometrize2GD",
 	"developer": "ShineUA",
-	"description": "Mod that could convert geometrize json to gd objects",
-	"repository": "https://github.com/ShineUA/geometrize2gd-mod-geode",
+	"description": "Simple parser from Geometrize format to GD",
+	"links": {"source": "https://github.com/sh1ne-dev/Geometrize2GD"},
 	"tags": ["editor", "utility", "offline"],
 	"resources": {
 		"spritesheets": {
 			"GeometrizeToGDButton": [
 				"resources/spritesheets/geometrize2gd.png"
 			]
+		}
+	},
+	"incompatibilities": {
+		"shineua.geometrize2gd": {
+			"version": "*",
+			"importance": "superseded"
 		}
 	}
 }

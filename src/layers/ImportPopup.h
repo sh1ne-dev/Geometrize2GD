@@ -1,13 +1,6 @@
-#include <Geode/Bindings.hpp>
 #include <Geode/ui/TextInput.hpp>
 #include <matjson.hpp>
-#include <string>
-#include <cstring>
-#include <fstream>
 #include <sstream>
-#include <cstdlib>
-#include <cmath>
-#include <filesystem>
 
 using namespace geode::prelude;
 

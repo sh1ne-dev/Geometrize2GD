@@ -1,3 +1,8 @@
+# 1.2.6
+
+- Updated the mod ID
+- Removed unused includes
+
 # v1.2.5
 
 - Updated the description.
