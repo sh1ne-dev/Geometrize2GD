@@ -22,7 +22,7 @@
 	},
 	"incompatibilities": {
 		"shineua.geometrize2gd": {
-			"version": "*",
+			"version": "<1.2.6",
 			"importance": "superseded"
 		}
 	}
