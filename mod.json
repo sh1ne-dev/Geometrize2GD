@@ -9,7 +9,7 @@
 	"version": "v1.2.6",
 	"id": "sh1ne_dev.geometrize2gd",
 	"name": "Geometrize2GD",
-	"developer": "ShineUA",
+	"developer": "sh1ne",
 	"description": "Simple parser from Geometrize format to GD",
 	"links": {"source": "https://github.com/sh1ne-dev/Geometrize2GD"},
 	"tags": ["editor", "utility", "offline"],
